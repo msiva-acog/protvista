@@ -1,0 +1,171 @@
+[
+    {
+        "name": "customTrack",
+        "color" : "red",
+        "shape" : "rectangle",
+        "data": [
+            {
+                "type": "ANTIGEN",
+                "begin": "221",
+                "end": "274",
+                "matchScore": 100,
+                "tooltipContent": "\n      \n      <h5>Match score</h5><p>100%</p>\n      \n      \n      \n      \n       \n      <h5>Cross-references</h5><ul><li style=\"padding: .25rem 0\">Ensembl <a href=\"https://www.ensembl.org/id/ENST00000305988\" style=\"color:#FFF\" target=\"_blank\">ENST00000305988</a></li></ul>\n      <h5>Evidence</h5>\n      <ul><li title='Automatic assertion inferred from combination of experimental and computational evidence' style=\"padding: .25rem 0\">Combined sources:&nbsp;&nbsp;<a href='https://www.proteinatlas.org/search/HPA075322' style=\"color:#FFF\" target='_blank'>HPA075322</a>&nbsp;(HPA)</li></ul>\n    \n      \n        ",
+                "protvistaFeatureId": "7327beda-3d2a-11ef-bf4e-71cb4d46fff9",
+                "start": "221",
+                "locations": [
+                    {
+                        "fragments": [
+                            {
+                                "start": "221",
+                                "end": "274"
+                            },
+                            {
+                                "start": "10",
+                                "end": "200"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "customTrack2",
+        "color" : "blue",
+        "shape" : "catFace",
+        "data": [
+            {
+                "type": "ANTIGEN",
+                "begin": "221",
+                "end": "274",
+                "xrefs": [
+                    {
+                        "name": "Ensembl",
+                        "id": "ENST00000305988",
+                        "url": "https://www.ensembl.org/id/ENST00000305988",
+                        "properties": {
+                            "gene ID": "ENSG00000169252",
+                            "protein sequence ID": "ENSP00000305372"
+                        }
+                    }
+                ],
+                "evidences": [
+                    {
+                        "code": "ECO:0000213",
+                        "source": {
+                            "name": "HPA",
+                            "id": "HPA075322",
+                            "url": "https://www.proteinatlas.org/search/HPA075322"
+                        }
+                    }
+                ],
+                "antigenSequence": "RVFQEAKRQLQKIDKSEGRFHVQNLSQVEQDGRTGHGLRRSSKFCLKEHKALKT",
+                "matchScore": 100,
+                "tooltipContent": "\n      \n      <h5>Match score</h5><p>100%</p>\n      \n      \n      \n      \n       \n      <h5>Cross-references</h5><ul><li style=\"padding: .25rem 0\">Ensembl <a href=\"https://www.ensembl.org/id/ENST00000305988\" style=\"color:#FFF\" target=\"_blank\">ENST00000305988</a></li></ul>\n      <h5>Evidence</h5>\n      <ul><li title='Automatic assertion inferred from combination of experimental and computational evidence' style=\"padding: .25rem 0\">Combined sources:&nbsp;&nbsp;<a href='https://www.proteinatlas.org/search/HPA075322' style=\"color:#FFF\" target='_blank'>HPA075322</a>&nbsp;(HPA)</li></ul>\n    \n      \n        ",
+                "protvistaFeatureId": "7327beda-3d2a-11ef-bf4e-71cb4d46fff9",
+                "start": "221",
+                "locations": [
+                    {
+                        "fragments": [
+                            {
+                                "start": "221",
+                                "end": "274"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "customTrack",
+        "color" : "blue",
+        "shape" : "rectangle",
+        "data": [
+            {
+                "type": "ANTIGEN",
+                "begin": "221",
+                "end": "274",
+                "matchScore": 100,
+                "tooltipContent": "\n      \n      <h5>Match score</h5><p>100%</p>\n      \n      \n      \n      \n       \n      <h5>Cross-references</h5><ul><li style=\"padding: .25rem 0\">Ensembl <a href=\"https://www.ensembl.org/id/ENST00000305988\" style=\"color:#FFF\" target=\"_blank\">ENST00000305988</a></li></ul>\n      <h5>Evidence</h5>\n      <ul><li title='Automatic assertion inferred from combination of experimental and computational evidence' style=\"padding: .25rem 0\">Combined sources:&nbsp;&nbsp;<a href='https://www.proteinatlas.org/search/HPA075322' style=\"color:#FFF\" target='_blank'>HPA075322</a>&nbsp;(HPA)</li></ul>\n    \n      \n        ",
+                "protvistaFeatureId": "7327beda-3d2a-11ef-bf4e-71cb4d46fff9",
+                "start": "221",
+                "locations": [
+                    {
+                        "fragments": [
+                            {
+                                "start": "221",
+                                "end": "274"
+                            },
+                            {
+                                "start": "10",
+                                "end": "200"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "customTrack3",
+        "color" : "blue",
+        "shape" : "rectangle",
+        "data": [
+            {
+                "type": "ANTIGEN",
+                "begin": "221",
+                "end": "274",
+                "matchScore": 100,
+                "tooltipContent": "\n      \n      <h5>Match score</h5><p>100%</p>\n      \n      \n      \n      \n       \n      <h5>Cross-references</h5><ul><li style=\"padding: .25rem 0\">Ensembl <a href=\"https://www.ensembl.org/id/ENST00000305988\" style=\"color:#FFF\" target=\"_blank\">ENST00000305988</a></li></ul>\n      <h5>Evidence</h5>\n      <ul><li title='Automatic assertion inferred from combination of experimental and computational evidence' style=\"padding: .25rem 0\">Combined sources:&nbsp;&nbsp;<a href='https://www.proteinatlas.org/search/HPA075322' style=\"color:#FFF\" target='_blank'>HPA075322</a>&nbsp;(HPA)</li></ul>\n    \n      \n        ",
+                "protvistaFeatureId": "7327beda-3d2a-11ef-bf4e-71cb4d46fff9",
+                "start": "221",
+                "locations": [
+                    {
+                        "fragments": [
+                            {
+                                "start": "221",
+                                "end": "274"
+                            },
+                            {
+                                "start": "10",
+                                "end": "200"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "customTrack4",
+        "color" : "green",
+        "shape" : "chveron",
+        "data": [
+            {
+                "type": "ANTIGEN",
+                "begin": "221",
+                "end": "274",
+                "matchScore": 100,
+                "tooltipContent": "\n      \n      <h5>Match score</h5><p>100%</p>\n      \n      \n      \n      \n       \n      <h5>Cross-references</h5><ul><li style=\"padding: .25rem 0\">Ensembl <a href=\"https://www.ensembl.org/id/ENST00000305988\" style=\"color:#FFF\" target=\"_blank\">ENST00000305988</a></li></ul>\n      <h5>Evidence</h5>\n      <ul><li title='Automatic assertion inferred from combination of experimental and computational evidence' style=\"padding: .25rem 0\">Combined sources:&nbsp;&nbsp;<a href='https://www.proteinatlas.org/search/HPA075322' style=\"color:#FFF\" target='_blank'>HPA075322</a>&nbsp;(HPA)</li></ul>\n    \n      \n        ",
+                "protvistaFeatureId": "7327beda-3d2a-11ef-bf4e-71cb4d46fff9",
+                "start": "221",
+                "locations": [
+                    {
+                        "fragments": [
+                            {
+                                "start": "221",
+                                "end": "274"
+                            },
+                            {
+                                "start": "10",
+                                "end": "200"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+
+]
